@@ -57,7 +57,7 @@ function renderElement(element, container) {
     container.innerHTML += element;
 }
 
-function clearVвапlue(e) {
+function clearValue(e) {
     e.value = '';
 }
 
